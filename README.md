@@ -28,7 +28,7 @@ Sou um estudante do ensino médio com uma grande paixão por programação, espe
 
 ## Conecte-se Comigo:
 
-  * [Seu LinkedIn](https://www.linkedin.com/in/josenilson-sousa-a60576283/) 
-  * [Seu E-mail](mailto:josenilsonsousa366@gmail.com) 
+  * [Meu LinkedIn](https://www.linkedin.com/in/josenilson-sousa-a60576283/) 
+  * [Meu E-mail](mailto:josenilsonsousa366@gmail.com) 
 
 Estou animado(a) para continuar minha jornada no mundo da programação e compartilhar meus progressos aqui no GitHub. Sinta-se à vontade para explorar meus repositórios e entrar em contato\! 😊
